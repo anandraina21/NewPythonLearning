@@ -1,0 +1,6 @@
+# Folders to exclude
+.idea
+venv
+
+# File extensions to exclude
+*.iml
